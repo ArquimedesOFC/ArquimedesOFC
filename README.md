@@ -1,41 +1,40 @@
-# 👨‍💻 João da Silva — Profissional de TI | 20+ anos de experiência
+# 👨‍💻 Arquimedes Monteiro
 
-Olá! Sou João da Silva, profissional de Tecnologia da Informação com mais de duas décadas de experiência atuando em diversas áreas da TI, incluindo desenvolvimento de software, infraestrutura, segurança da informação e gestão de projetos.
+Olá! Eu sou o Arquimedes, estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado por tecnologia, programação e soluções digitais. Estou sempre em busca de novos desafios e oportunidades para aprender, desenvolver e aplicar meus conhecimentos em projetos práticos.
 
 ## 🚀 Sobre Mim
 
-- 💼 Mais de 20 anos de atuação no setor de TI, com passagem por empresas nacionais e multinacionais.
-- 🧠 Especialista em **arquitetura de sistemas**, **segurança cibernética**, **cloud computing** e **automação de processos**.
-- 🛠️ Forte conhecimento em linguagens como **Python**, **Java**, **C#**, **Shell Script**, e tecnologias como **Docker**, **Kubernetes**, **Azure**, **AWS** e **Linux**.
-- 🎯 Experiência comprovada com metodologias ágeis (Scrum, Kanban) e ITIL.
-- 📊 Liderança técnica e gestão de equipes multidisciplinares.
+- 🎓 Cursando ADS no **IFSP**  
+- 👨‍🔧 Formação técnica em **Suporte ao Usuário** pela ETEC  
+- 💼 Atualmente atuando como **Auxiliar de Produção** na **LSL**  
+- 🌐 Interesse em **desenvolvimento web**, **Python**, **SQL**, **segurança da informação** e **automação**
+- 🤖 Projetos pessoais incluem sistemas em **Python**, sites em **HTML/CSS/JS** e experiências com **MySQL**
 
-## 🧰 Tecnologias e Ferramentas
+## 🛠️ Tecnologias que estou aprendendo e utilizando
 
-- **Linguagens:** Python, Java, C#, JavaScript, Shell Script
-- **DevOps:** Docker, Kubernetes, GitLab CI/CD, Jenkins
-- **Cloud:** AWS, Microsoft Azure, Google Cloud
-- **Banco de Dados:** PostgreSQL, MySQL, MongoDB, SQL Server
-- **Outros:** Ansible, Terraform, Prometheus, Grafana, Zabbix
+- **Linguagens:** Python, JavaScript, C, C#, HTML, CSS  
+- **Banco de Dados:** MySQL, SQLite  
+- **Ferramentas:** VS Code, Git, GitHub, Figma  
+- **Outros:** Shell Script (Linux), Noções de redes, MQTT
 
-## 📂 Repositórios em Destaque
+## 📌 Repositórios em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [infra-automation](https://github.com/seuusuario/infra-automation) | Automação de provisionamento de infraestrutura em nuvem | Ansible, Terraform, AWS |
-| [secure-api](https://github.com/seuusuario/secure-api) | API REST segura com autenticação JWT e controle de acesso | Python, FastAPI, PostgreSQL |
-| [k8s-monitoring-stack](https://github.com/seuusuario/k8s-monitoring-stack) | Stack de monitoramento completo para clusters Kubernetes | Helm, Prometheus, Grafana |
+| [Social Sleuth](https://github.com/ArquimedesOFC/SocialSleuth) | Ferramenta de OSINT para coleta de dados em redes sociais | Python |
+| [Tradutor GPR](https://github.com/ArquimedesOFC/TradutorGPR) | Tradutor com histórico de traduções inspirado no Google Pixel Recorder | HTML, CSS, JavaScript |
+| [Site Pastelaria Viçosa](https://github.com/ArquimedesOFC/pastelariavicosa) | Projeto de site fictício para testes e aprendizado | HTML, CSS |
 
-## 📈 Estatísticas
+## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dracula)
+![Stats](https://github-readme-stats.vercel.app/api?username=ArquimedesOFC&show_icons=true&theme=tokyonight)
 
-## 🤝 Contato
+## 📫 Como me encontrar
 
-- 📧 E-mail: joao.silva@email.com  
-- 🔗 LinkedIn: [linkedin.com/in/joaodasilva](https://linkedin.com/in/joaodasilva)  
-- 🌐 Portfólio: [www.joaodasilva.dev](https://www.joaodasilva.dev)
+- 📧 E-mail: arquimedes.contato@gmail.com  
+- 🌐 Meu portfólio em breve...  
+- 💬 Sempre aberto a colaborações, ideias e parcerias!
 
 ---
 
-Obrigado por visitar meu perfil! Fique à vontade para explorar os repositórios, contribuir ou entrar em contato. 🚀
+🔧 Em constante evolução. Se quiser bater um papo ou colaborar em algum projeto, será um prazer trocar ideias! 🚀
