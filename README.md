@@ -35,9 +35,6 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Instituto F
 
 ---
 
-## 🐍 Gráfico de Contribuições Animado
-
-## 🐍 Gráfico de Contribuições Animado
 
 ![Snake animation](https://raw.githubusercontent.com/ArquimedesOFC/ArquimedesOFC/output/github-contribution-grid-snake.svg)
 
