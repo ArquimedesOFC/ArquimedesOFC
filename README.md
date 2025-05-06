@@ -44,6 +44,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ArquimedesOFC/ArquimedesOFC/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/arquimedesmonteiro/arquimedesmonteiro/blob/output/github-contribution-grid-snake.svg)
 
 ###
