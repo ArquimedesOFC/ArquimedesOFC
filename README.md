@@ -2,6 +2,18 @@
 
 ###
 
+<p align="left">Hello World!!<br>Hi! My name is Arquimedes Monteiro, and I'm currently pursuing a degree in Systems Analysis and Development (ADS) at IFSP. I'm a passionate Full Stack Developer, which means I work with both the front-end and back-end aspects of web development.<br><br>On the front-end, I enjoy creating intuitive and engaging user interfaces using technologies like HTML, CSS, and JavaScript. I focus on clean, accessible code that ensures a seamless experience for users. For the back-end, I work with various programming languages and frameworks to build robust and scalable server-side applications. Technologies like Python, Node.js, and databases like MySQL and MongoDB are part of my toolkit.<br><br>As a Full Stack Developer, I’m involved in all stages of the development process, from planning and design to implementation and maintenance. I enjoy the challenge of solving complex problems and creating applications that work efficiently across the entire stack.<br><br>In addition to my technical skills, I’m committed to learning continuously and improving my abilities, aiming to stay up-to-date with the latest trends and technologies in web development.</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArquimedesOFC&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArquimedesOFC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ArquimedesOFC&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -32,22 +44,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArquimedesOFC&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArquimedesOFC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ArquimedesOFC&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<p align="left">Hello World!!<br>Hi! My name is Arquimedes Monteiro, and I'm currently pursuing a degree in Systems Analysis and Development (ADS) at IFSP. I'm a passionate Full Stack Developer, which means I work with both the front-end and back-end aspects of web development.<br><br>On the front-end, I enjoy creating intuitive and engaging user interfaces using technologies like HTML, CSS, and JavaScript. I focus on clean, accessible code that ensures a seamless experience for users. For the back-end, I work with various programming languages and frameworks to build robust and scalable server-side applications. Technologies like Python, Node.js, and databases like MySQL and MongoDB are part of my toolkit.<br><br>As a Full Stack Developer, I’m involved in all stages of the development process, from planning and design to implementation and maintenance. I enjoy the challenge of solving complex problems and creating applications that work efficiently across the entire stack.<br><br>In addition to my technical skills, I’m committed to learning continuously and improving my abilities, aiming to stay up-to-date with the latest trends and technologies in web development.</p>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArquimedesOFC/ArquimedesOFC/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArquimedesOFC/ArquimedesOFC/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ArquimedesOFC/ArquimedesOFC/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/ArquimedesOFC/ArquimedesOFC/output/snake.svg" alt="Snake animation" />
 
 ###
