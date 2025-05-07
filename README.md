@@ -42,12 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
 
-###
-
-![Snake animation](https://github.com/arquimedesmonteiro/arquimedesmonteiro/blob/output/github-contribution-grid-snake.svg)
-
-###
-
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
