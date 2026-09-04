@@ -17,33 +17,16 @@ I'm a DevOps apprentice at Bosch Digital, working through a structured technical
 ## Stack
 
 **Containers & Orchestration**
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=docker,kubernetes" /></p>
 
 **Cloud**
-<p>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=gcp,azure" /></p>
 
 **Languages & Frameworks**
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23%20%2F%20.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=python,java,cs,react,mysql" /></p>
 
 **Systems & Tools**
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=linux,git,githubactions,bash" /></p>
 
 ## Background
 
